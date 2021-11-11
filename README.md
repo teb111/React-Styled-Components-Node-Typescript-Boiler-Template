@@ -1,8 +1,13 @@
-# Travel Log App
+# React-Styled-Components-Node-Typescript-Boiler-Template
 
-This app will allow people to share their travel experience to a community of other travellers
+### This is a boiler template to get you started in any of your project using React, styled components, Node and Typescript,
 
-## This app will allow people to:-
+### Easy to customize
 
-1. Browse travel experience of other people
-1. Add their own experience
+## Usage
+
+```bash
+Navigate to Server run 'npm install'
+Navigate to Client run 'npm install'
+Navigate Back to Server run 'npm run dev'
+```
